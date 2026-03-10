@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/subham871/subham871/main/banner.png" alt="Profile Banner" width="100%">
+</div>
+
 # 💫 About Me:
 I'm a passionate developer who loves bridging the gap between robust backend engineering and security. I specialize in Python, comprehensive database management (DBMS), and full-stack web development, always building with a security-first mindset.<br><br>🔭 I’m currently working on: Building high-performance backend systems using FastAPI and developing AI-assisted security tools, including an AI-Powered Penetration Testing Tool and an AI-Powered Code Reviewer.<br><br>🤝 I’m looking to collaborate on: Open-source cybersecurity utilities, network reconnaissance tools (API scanners, enumeration), and scalable event-driven architectures.<br><br>🆘 I’m looking for help with: Advanced vulnerability analysis techniques and optimizing AI models for security analysis.<br><br>🌱 I’m currently learning: Deepening my knowledge of message brokers like Kafka and exploring advanced digital logic design concepts.<br><br>💬 Ask me about: Python, FastAPI, full-stack development (React/Node.js), and crafting custom network scanning scripts.<br><br>⚡ Fun fact: When I'm not hunting for vulnerabilities or architecting backend logic, I'm probably endlessly tweaking my Kali Linux setup!
 
