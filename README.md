@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/subham871/subham871/main/banner.png" alt="Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/subham871/subham871/main/Banner.png" alt="Profile Banner" width="100%">
 </div>
 
 # 💫 About Me:
